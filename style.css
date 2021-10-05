@@ -1,0 +1,19 @@
+.bg-first {
+  background-color: #3d5a80;
+}
+
+.bg-second {
+  background-color: rgba(41, 50, 65, 0.6);
+}
+
+.bg-fourth {
+  background-color: #293241;
+}
+
+.color-first {
+  color: #3d5a80;
+}
+
+.color-fourth {
+  color: #293241;
+}
